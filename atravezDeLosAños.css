@@ -1,0 +1,93 @@
+  @import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+
+body {
+    background-color: #F4EEFF;
+}
+div.header {
+    text-align: center;
+    font-family: agbalumo;
+}
+
+div.header img {
+  border-radius: 40px;
+  box-shadow: 6px 6px #424874;
+}
+
+.parrafO1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.parrafo1 {
+  width: 1000px;
+  background-color: #DCD6F7;
+  border-radius: 15px;
+  padding: 5px;
+  word-break: break-word;
+  text-align: center;
+  border: solid;
+}
+
+div.comparasion {
+  display: grid;
+  box-sizing: border-box;
+  justify-content: center;
+  justify-items: center;
+  grid-template: 250px 120px 250px 120px / 500px 500px;
+}
+
+
+div.comparasion img {
+  border: solid;
+  align-items: center;
+  width: 50%;
+  height: 100%;
+  border-radius: 50px;
+  box-sizing: border-box;
+  box-shadow: 6px 6px #424874;
+}
+
+.photo1 {
+    margin-right: 5px;
+}
+
+div.comparasion p {
+  color: #424874;
+  background-color: #DCD6F7;
+  border: solid;
+  border-radius: 15px;
+  padding: 5px;
+  word-break: break-word;
+  text-align: justify;
+}
+
+.comparaciones1 {
+  margin-right: 15px;
+  align-content: center;
+}
+
+.comparaciones2 {
+  margin-left: 15px;
+}
+
+.comparaciones3 {
+  margin-right: 15px;
+}
+
+.comparaciones4 {
+  margin-left: 15px;
+}
+
+div.secondPage {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.secondPage img {
+  width: 867px;
+  height: 342px;
+  border-radius: 40px;
+  box-shadow: 6px 6px #424874;
+}
